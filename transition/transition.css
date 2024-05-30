@@ -1,0 +1,19 @@
+.one {
+
+    width: 300px;
+    height: 800px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.one:hover {
+    transform:rotate(360deg);
+    width: 250px;
+    height: 150px;
+    font-size: 50px;
+    background-color: purple;
+    transition-property: all;
+    transition-duration: 10s;
+}
