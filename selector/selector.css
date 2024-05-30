@@ -1,0 +1,4 @@
+/* when i want to input some thing and i wan to change the text  */
+input[type="text"] {
+    color: red;
+}
