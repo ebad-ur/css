@@ -1,0 +1,25 @@
+.cardpara{
+    color: rgb(168, 65, 65);
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align-last: center;
+}
+
+.cardtitle{
+             
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.cardimg{
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 5%;   
+
+
+}
+
+
