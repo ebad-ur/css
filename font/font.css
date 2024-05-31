@@ -1,7 +1,12 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 100;
-    font-size: large;
-    font-style: italic;
-    
+.max{
+    font-size: small;
+}
+.font{
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+    border-color: black;
+    border-radius: 5px;                     
+    border-spacing: 50px;
+    padding-left: 50px;
+  border: 20px ;
+    border-style: solid;
 }
