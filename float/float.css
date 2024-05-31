@@ -1,0 +1,12 @@
+.box1{
+    background-color: aqua;
+    height: 250px;
+    width: 300px;
+    float: left;
+}
+.box2{
+    background-color: green;
+    height: 250px;
+    width: 300px;
+    float: right;
+}
