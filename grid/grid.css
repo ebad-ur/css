@@ -1,0 +1,20 @@
+.gridcontainer{
+    width: 80vw;
+    margin: auto;
+   border: 2px solid black;
+    display: grid;
+    grid-template-columns: 100px auto 100px ;
+    grid-column-gap: 20px ;
+    grid-row-gap:20px ;
+    align-content: flex-end;
+
+}
+.item{
+ 
+    background-color: yellowgreen;
+    margin: 1px;
+    padding: 50px;
+    text-align: center;
+
+
+}
