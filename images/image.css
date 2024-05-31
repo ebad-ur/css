@@ -1,0 +1,9 @@
+body{
+    background-image: -moz-element(background-size);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center center;
+    background-attachment: fixed;
+    
+
+}
