@@ -1,0 +1,49 @@
+.container{
+    width: 80vw;
+    height: 80vh;
+    margin: auto;
+    background-color: black;
+    /* position: relative; */
+
+}
+.box1{
+     width: 200px;
+     height: 150px;
+     background-color: antiquewhite;
+     position: static;
+     left: 100px;
+     /* this is static in this the comatiner not move and in container we use relative as a postion */
+} 
+ .box1{
+    width: 200px;
+    height: 150px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+.box2{
+    width: 200px;
+    height: 150px;
+    background-color: salmon;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+    /* this is relative in this container move  */
+}
+
+
+ .box1{
+    width: 200px;
+     height: 150px;
+     background-color: antiquewhite;
+     display: inline;
+     position: absolute;
+    height: 30%;
+     width: 30% ;
+     right: 25%;
+     top: 10%;
+     /* the absolute value are used to fix the size and stick one place  */
+
+} 
