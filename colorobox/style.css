@@ -1,0 +1,17 @@
+.parentbox{
+    background-color: yellow;
+    height: 200px;
+     width: 300px;
+    /* width: 50vw; */
+     /* height: 50vh; */
+    margin: auto; 
+    outline: solid pink 5px;
+}
+.childbox{
+    background-color: aqua;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    outline: solid snow 5px;
+    
+}
