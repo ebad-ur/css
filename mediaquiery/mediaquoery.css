@@ -1,0 +1,42 @@
+.container{
+    height: 300px;
+    width: 80vw;
+    background-color: red;
+    margin: auto;
+    text-align: center;
+}
+.navbar{
+    height: 150px;
+    width: 80vw;
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px;
+
+}
+ul{
+    list-style: none;
+    
+}
+li{
+   display: inline;
+   padding: 20px;
+   font-size: large;
+}
+@media only screen and (max-width: 600px) { .container{
+  background-color: green;
+}
+  
+}
+
+@media only screen and (min-width: 700px) { .container{
+  background-color: sienna;
+}
+  
+}
+
+@media only screen and (max-width: 800px) { .container{
+  background-color: yellow;
+}
+  
+}
