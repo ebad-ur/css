@@ -1,0 +1,27 @@
+.a{
+    color: red;
+}
+a:visited{
+         color: yellow;
+}
+a:hover{
+        color: green;
+}
+a:active{
+        color: tomato;
+}
+
+button{
+ background-color: white;
+ color: aqua;
+ border-radius: 5px;
+ padding: 10px;
+ font-size: large;
+ border: 2px solid gray;
+}
+
+button:hover{
+ background-color: purple;
+ border: 2px solid rebeccapurple;
+ color: white;
+}
